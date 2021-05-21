@@ -1,2 +1,2 @@
 # Java
-Este repositória será destinado a hospedar meus códigos de resolução de problemas de um livro de Java
+Este repositória tem a finalidade de hospedar meus estudos e exercícios durante meu aprendizado da Linguagem Java.
