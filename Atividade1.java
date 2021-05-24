@@ -23,14 +23,14 @@ class ContaB{
 	}
 	
 	void rendimento(){
-		System.out,println("O rendimento mensal da conta eh:" + saldo*0.1 + "R$");
+		System.out.println("O rendimento mensal da conta eh:" +saldo*0.1 + "R$");
 	}
 }
 
 class Cliente{
 	String nome;
-	String sobrenome
-	String cpf
+	String sobrenome;
+	String cpf;
 }
 
 
