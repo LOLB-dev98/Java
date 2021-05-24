@@ -4,4 +4,4 @@ Neste repositório irei hospedar as resoluções dos exercícios de Java da apos
 
 ## Sumário de Exercícios e Projetos
 
-  * [Exercício 1 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade4.12.1.java)
+  * [Exercício 1 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade1.java)
