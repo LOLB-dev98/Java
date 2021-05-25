@@ -10,3 +10,4 @@ Neste repositório irei hospedar as resoluções dos exercícios de Java da apos
   * [Exercício 4 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade4.java)
   * [Exercício 5 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade5.java)
   * [Exercício 6 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade6.java)
+  * [Desafio 1 da seção 4.13](https://github.com/LOLB-dev98/Java/blob/main/Desafio1.java)
