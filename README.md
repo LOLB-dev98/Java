@@ -7,3 +7,4 @@ Neste repositório irei hospedar as resoluções dos exercícios de Java da apos
   * [Exercício 1 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade1.java)
   * [Exercício 2 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade2.java)
   * [Exercício 3 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade3.java)
+  * [Exercício 4 da Seção 4.12](https://github.com/LOLB-dev98/Java/blob/main/Atividade4.java)
