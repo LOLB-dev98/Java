@@ -1,4 +1,4 @@
-# Java
+# Java <img src="https://github.com/LOLB-dev98/Java/blob/main/LogoJava.png" alt="drawing" width="40"/>
 
 Neste repositório irei hospedar as resoluções dos exercícios de Java da apostila "**Java e Orientação a Objetos**", da *Caelum*, durante meu aprendizado.
 
