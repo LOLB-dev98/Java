@@ -17,3 +17,4 @@ Neste repositório irei hospedar as resoluções dos exercícios de Java da apos
 
   * [Exercício 2 da Seção 5.8](https://github.com/LOLB-dev98/Java/blob/main/Capitulo_5/Atividade2.java)
   * [Exercício 4 da Seção 5.8](https://github.com/LOLB-dev98/Java/blob/main/Capitulo_5/Atividade4.java)
+  * [Exercício 5 da Seção 5.8](https://github.com/LOLB-dev98/Java/blob/main/Capitulo_5/Atividade5.java)
